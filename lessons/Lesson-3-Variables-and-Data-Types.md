@@ -140,7 +140,7 @@ chmod +x userinfo.sh
 
 | Concept          | Example                |
 | ---------------- | ---------------------- |
-| Declare variable | `name="Zakeer"`        |
+| Declare variable | `name="Ramya"`        |
 | Use variable     | `echo $name`           |
 | User input       | `read variable_name`   |
 | Arithmetic       | `sum=$((x + y))`       |
