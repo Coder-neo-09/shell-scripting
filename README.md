@@ -1,7 +1,7 @@
 # shell-scripting
 ## 🧠 Bash Scripting
 
-### [1. Introduction to Bash](./lessons/Lesson-1-Introduction-to-Bash.md)
+### [1. Introduction to Bash](./lessons/Lesson-1-Introduction-to-bash.md)
 
 * What is Bash?
 * Why use Bash scripting?
@@ -20,7 +20,7 @@
 * Reading user input
 * Special variables
 
-### [4. Conditional Statements](./lessons/Lesson-4-Conditional-Statements.md)
+### [4. Conditional Statements](./lessons/Lesson-4:-Conditional-Statements.md)
 
 * `if`, `else`, `elif`
 * Comparison operators
@@ -33,19 +33,19 @@
 * `until` loops
 * `break` and `continue`
 
-### [6. Functions in Bash](./lessons/lesson-6-Functions-in-Bash.md)
+### [6. Functions in Bash](./lessons/Lesson-6-Functions-in-Bash.md)
 
 * Defining functions
 * Arguments to functions
 * Returning values
 
-### [7. Working with Files](./lessons/Lesson-7-Working-with-files.md)
+### [7. Working with Files](./lessons/Lesson-7-Working-with-Files.md)
 
 * Reading and writing files
 * Redirects: `>`, `>>`, `<`
 * Pipes and `tee`
 
-### [8. String and Array Operations](./lessons/Lesson-8-String-and-Array-Manipulation.md)
+### [8. String and Array Operations](./lessons/Lesson-8-String-and-Array-manipulation.md)
 
 * String manipulation
 * Arrays in Bash
