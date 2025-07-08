@@ -68,7 +68,7 @@ echo ${text:4}
 
 ```bash
 greeting="Hello World"
-echo ${greeting/World/Zakeer}
+echo ${greeting/World/Ramya}
 ```
 
 * `${variable/old/new}` replaces the **first occurrence** of `old` with `new`.
