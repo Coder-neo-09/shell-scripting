@@ -13,18 +13,18 @@ In Bash, a **string** is simply **text stored in a variable**. It can be anythin
 ### 📌 a) Assigning Strings
 
 ```bash
-name="Zakeer"
+name="Ramya"
 ```
 
 * The `=` sign assigns the value **without any spaces** around it.
-* `"Zakeer"` is the string being stored.
+* `"Ramya"` is the string being stored.
 * Now, you can use `$name` to access the value.
 
 ```bash
 echo "Hello, $name"
 ```
 
-* Prints: `Hello, Zakeer`
+* Prints: `Hello, Ramya`
 * `$name` gets **replaced** by the value inside the variable.
 
 ---
@@ -72,8 +72,8 @@ echo ${greeting/World/Zakeer}
 ```
 
 * `${variable/old/new}` replaces the **first occurrence** of `old` with `new`.
-* Replaces `"World"` with `"Zakeer"` in the string.
-* Output: `Hello Zakeer`
+* Replaces `"World"` with `"Ramya"` in the string.
+* Output: `Hello Ramya`
 
 🧠 You can use `${variable//old/new}` to replace **all occurrences**.
 
