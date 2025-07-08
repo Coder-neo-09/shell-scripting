@@ -26,13 +26,13 @@ File handling lets your scripts:
 ### ✏️ Use: Save output to a file (overwrite if it exists)
 
 ```bash
-echo "Hello, Zakeer!" > greeting.txt
+echo "Hello, Ramya!" > greeting.txt
 ```
 
 🔍 This **creates** or **overwrites** `greeting.txt` with the line:
 
 ```
-Hello, Zakeer!
+Hello, Ramya!
 ```
 
 ---
@@ -48,7 +48,7 @@ echo "How are you?" >> greeting.txt
 Now `greeting.txt` contains:
 
 ```
-Hello, Zakeer!
+Hello, Ramya!
 How are you?
 ```
 
@@ -79,7 +79,7 @@ done < greeting.txt
 Each line in `greeting.txt` will be printed like:
 
 ```
-Line: Hello, Zakeer!
+Line: Hello, Ramya!
 Line: How are you?
 ```
 
