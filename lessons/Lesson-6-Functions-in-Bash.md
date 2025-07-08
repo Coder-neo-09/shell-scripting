@@ -71,11 +71,11 @@ print_name() {
   echo "Your name is $1"
 }
 
-print_name "Zakeer"
+print_name "Ramya"
 ```
 
 > **Output**:
-> Your name is Zakeer
+> Your name is Ramya
 
 ---
 
