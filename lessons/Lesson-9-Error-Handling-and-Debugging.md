@@ -74,7 +74,7 @@ It puts the script into **debug mode** — every command will be printed **befor
 ```bash
 #!/bin/bash
 set -x
-name="Zakeer"
+name="Ramya"
 echo "Hi $name"
 ```
 
