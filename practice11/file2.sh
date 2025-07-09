@@ -20,3 +20,19 @@ do
   echo "Untill loop:Count is $count"
   ((count++))
 done
+
+for i in {1..5}
+do
+  if [ $i -eq 3 ]; then
+    break
+  fi
+  echo "i is $i"
+done
+
+for i in {1..5}
+do
+  if [ $i -eq 3 ]; then
+    continue
+  fi
+  echo "Continue:i is $i"
+done
