@@ -1,7 +1,7 @@
 #! /usr/bin/bash
 
-Name=Syed
-name=Hussain
+Name=Ramya
+name=Latha
 
 echo "Hello, "
 echo "$Name"
