@@ -57,7 +57,7 @@
 * `set -e`, `set -x`
 * `trap` command
 
-### [10. Practical Examples](./lessons.Lesson-10-Practical-Examples.md)
+### [10. Practical Examples](./lessons/Lesson-10-Practical-Examples.md)
 
 * Backup script
 * Log file analyzer
