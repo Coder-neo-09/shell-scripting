@@ -203,10 +203,10 @@ calculator 20 - 7
 
 ## 🚀 Best Practices
 
-✅ Use **meaningful function names**
-✅ Keep functions **short and focused**
-✅ Add **comments** to explain complex logic
-✅ Always **test** functions independently
+- ✅ Use **meaningful function names**
+- ✅ Keep functions **short and focused**
+- ✅ Add **comments** to explain complex logic
+- ✅ Always **test** functions independently
 
 ---
 
@@ -230,3 +230,4 @@ calculator 20 - 7
 3. `is_even`: Takes a number and prints "Even" or "Odd"
 4. `max_number`: Takes two numbers and prints the bigger one
 5. `starts_with_a`: Checks if a word starts with the letter "a"
+
