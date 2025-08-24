@@ -140,13 +140,13 @@ This **shows** the message and also **appends** it to `log.txt`.
 
 ## 🧠 Summary
 
-| Symbol | Use                  |                                |
-| ------ | -------------------- | ------------------------------ |
-| `>`    | Write (overwrite)    |                                |
-| `>>`   | Append               |                                |
-| `<`    | Read from file       |                                |
-| `|`     | `|`                 | Pipe output to another command |
-| `tee`  | Show and save output |                                |
+| Symbol | Use                  |                                 |
+| ------ | -------------------- | ------------------------------  |
+| `>`    | Write (overwrite)    |                                 |
+| `>>`   | Append               |                                 |
+| `<`    | Read from file       |                                 |
+| ` | `  | ` | `                | Pipe output to another command  |
+| `tee`  | Show and save output |                                 |
 
 ---
 
@@ -157,3 +157,4 @@ This **shows** the message and also **appends** it to `log.txt`.
 3. Read and print each line using a `while` loop.
 4. Convert file content to uppercase using `cat` + `| tr a-z A-Z`.
 5. Save and display output using `tee`.
+
