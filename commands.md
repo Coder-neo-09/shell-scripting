@@ -19,7 +19,9 @@
 - `chmod u+x [filename]` to change the file in executable mode
 - `clear` to clear the terminal
 - `bash [filename]  , python [filename] ` to run the file
-- `vim [filename]` to create or update the file, # press`i` to write the code  , # ESCAPE --> :wq   to close the file
+- `vim [filename]` to create or update the file, ---press`i` to write the code  ,`ESCAPE + :wq  ` to close the file
+- `nano [filename]` to create or update the file , --- press `ctrl + O ` `ENTER`then  `ctrl + X` in nano to save and exit.
+
 
 ### Git commands to save files local <-------> Remote
 
